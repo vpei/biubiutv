@@ -1,4 +1,7 @@
 {"zhuyejiekou": [
+{"name": "300看世界","url": "https://300ys.xyz/mogai_api.php/v1.vod"},
+{"name": "钟特影视","url": "https://app.zteys.com/api.php/v1.vod"},	
+{"name": "爱酷","url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},	
 {"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"name":"Hi影视","url":"http://114.132.251.111:999/lvdou_api.php/v1.vod"},
 {"name": "会员影院","url": "http://360yy.cn/api.php/app/"},
@@ -22,7 +25,8 @@
 "beiyongjiexi": "https://nbjx.vip/?url=#https://jx.blbo.cc:4433/?url=",
 "dianshizhibo": "http://www.mikkk.xyz/bblive.txt",
 "caijizhan": [
-{"name":"七七","url":"http://api.kunyu77.com/api.php"}],
+{"name":"七七","url":"http://api.kunyu77.com/api.php"},
+{"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"}],
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
 "wuqu": "aHR0cDovL3d3dy5kanV1LmNvbQ==",
