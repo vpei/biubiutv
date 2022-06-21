@@ -1,7 +1,8 @@
 {"zhuyejiekou": [
 {"name": "钟特影视","url": "https://app.zteys.com/api.php/v1.vod"},	
-{"name": "爱酷","url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},	
+{"name": "爱酷","url": "https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod"},
 {"name": "9e国语","url": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
+{"name": "影视猫","url": "https://vip.wscyun.com/api.php/v1.vod"},
 {"name":"Hi影视","url":"http://114.132.251.111:999/lvdou_api.php/v1.vod"},
 {"name": "会员影院","url": "http://360yy.cn/api.php/app/"},
 {"name": "饭后电影","url": "http://yinliub.cn/lvdou_api.php/v1.vod"},
@@ -25,6 +26,7 @@
 "dianshizhibo": "http://www.mikkk.xyz/bblive.txt",
 "caijizhan": [
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
+{"name":"293 ------采集","url":"http://293x.yhzy.xyz/mv/api.php"},
 {"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"}],
 "tiyuzhibo": "https://m.zhibo8.net",
 "reci": "https://v.sogou.com",
@@ -172,8 +174,7 @@
 			"bfbiaotihou": "</a>",
 			"bflianjieqian": "href=\"",
 			"bflianjiehou": "\""
-		},
-{
+		},{
 			"name": "乐猪影视",
 			"url": "http://www.lezhutv.com",
 			"tihuan": "cnzz.com",
@@ -231,8 +232,7 @@
 			"bfbiaotihou": "</a>",
 			"bflianjieqian": "href=\"",
 			"bflianjiehou": "\""
-		},
-		{
+		},{
 			"name": "会员影视",
 			"url": "http://www.vip1280.net",
 			"tihuan": "cnzz.com",
