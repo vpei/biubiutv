@@ -1,7 +1,10 @@
 {"zhuyejiekou": [
-{"name":"秒播365","url":"https://www.kan365.xyz/api.php/app/"}],
+{"name":"秒播365","url":"https://www.kan365.xyz/api.php/app/"},
+{"name":"独播社","url":"http://35ys.cc/api.php/v1.vod"},
+{"name":"钟特影视","url":"https://app.zteys.com/api.php/v1.vod"}],
 "caijizhan": [
-{"name":"77","url":"http://api.kunyu77.com/api.php"}],
+{"name":"77","url":"http://api.kunyu77.com/api.php"},
+{"name":"8090资源","url":"http://zy.yilans.net:8090/api.php"}],
 "lunbo": [
 {"name": "D鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
 {"name": "H牙","fanye": "aHR0cHM6Ly93d3cuaHV5YS5jb20vY2FjaGUucGhwP209TGl2ZUxpc3QmZG89Z2V0TGl2ZUxpc3RCeVBhZ2UmZ2FtZUlkPTIxMzUmdGFnQWxsPTAmY2FsbGJhY2s9Z2V0TGl2ZUxpc3RKc29ucENhbGxiYWNrJnBhZ2U9","qianzhui": "aHR0cHM6Ly9lcGcuMTEyMTE0Lnh5ei9odXlhLw=="},
